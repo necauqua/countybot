@@ -1,0 +1,8 @@
+{
+  "name": "County Bot",
+  "description": "Simple Telegram bot that can count integers.",
+  "image": "heroku/python",
+  "repository": "https://github.com/necauqua/county-bot",
+  "keywords": ["python", "telegram" ],
+  "addons": []
+}
